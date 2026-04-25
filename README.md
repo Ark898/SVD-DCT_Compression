@@ -2,6 +2,8 @@
 
 An interactive web-based playground for exploring transform-based image compression. This tool implements both **Singular Value Decomposition (SVD)** and **Discrete Cosine Transform (DCT)** directly in JavaScript to demonstrate how different mathematical approaches handle visual data reduction.
 
+<img width="1845" height="954" alt="image" src="https://github.com/user-attachments/assets/bf0d833b-b907-4d6d-b818-79c19baa9b2b" />
+
 ## 🚀 Live Demo Features
 
 * **Real-time Processing:** Performs SVD (randomized) and DCT (8x8 blocks) on client-side images.
